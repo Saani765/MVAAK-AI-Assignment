@@ -81,9 +81,7 @@ Replace `your_audio.wav` with the path to your 16kHz, 5-10 second WAV audio file
 | Audio File                | Transcription Result (NeMo)         |
 |---------------------------|-------------------------------------|
 | audio_16khz.wav           | कृप्या बिना टिकट यात्रा न करें यह दंडनीय अपराध है |
-| audio2_16khz.wav          |'आगरा के ताजमहल में मुगल बादशाह शाहजहां के उर्स 
-                              की शुरुआत की गई जिसके चलते शाहजहां और 
-                              मोमतास की कब्र का गेट खोला गया            |
+| audio2_16khz.wav          | आगरा के ताजमहल में मुगल बादशाह शाहजहां के उर्स की शुरुआत की गई जिसके चलते शाहजहां और मोमतास की कब्र का गेट खोला गया            |
 | audio3.wav                | हमने उस उम्मीदवार को अपना मत दिया          |
 
 > _Note: The above results were produced using the NeMo model directly. The ONNX model produced only empty output for all files._
